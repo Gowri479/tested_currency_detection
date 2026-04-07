@@ -1,7 +1,5 @@
-ultralytics 
-streamlit 
-Pillow 
-gtts 
-torch 
-torchvision 
-opencv-python-headless 
+streamlit
+ultralytics==8.0.196
+opencv-python-headless
+numpy
+Pillow
